@@ -13,7 +13,7 @@ const searcher = (state=initialState, action) =>{
 
         case FETCH_CITY_SUCCESS:
 
-        case FETCH_CITY_FAILURE:
+        
 
 
 
